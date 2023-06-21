@@ -1,6 +1,6 @@
 ### Hello there, I'm Nathalie 👋
-🔭 I’m currently a student at Medieinstitutet in Gothenburg learning front-end developement 👩‍💻
-📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
+- 🔭 I’m currently a student at Medieinstitutet in Gothenburg learning front-end developement 👩‍💻
+- 📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
 
 <!--
 **nathaliegustafsson/nathaliegustafsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
