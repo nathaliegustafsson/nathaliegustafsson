@@ -1,5 +1,5 @@
 ### Hello there, I'm Nathalie 👋
-
+🔭 I’m currently a student at Medieinstitutet in Gothenburg learning front-end developement 👩‍💻
 📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
 
 <!--
@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
