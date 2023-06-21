@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
+📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
 
 <!--
 **nathaliegustafsson/nathaliegustafsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
