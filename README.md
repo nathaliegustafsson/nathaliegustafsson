@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello there, I'm Nathalie 👋
 
 📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
 
