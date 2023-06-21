@@ -1,5 +1,6 @@
 ### Hello there, I'm Nathalie 👋
-- 🔭 I’m currently a student at Medieinstitutet in Gothenburg learning front-end developement 👩‍💻
+- 👩‍💻 I’m currently a student at Medieinstitutet in Gothenburg learning front-end developement 
+- 🔭 I'm looking for an internship in September -23
 - 📫 How to reach me: nathalie.gustafsson@medieinstitutet.se
 
 <!--
